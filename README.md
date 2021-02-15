@@ -6,3 +6,5 @@ Day 2 (2/9/21): Supervised learning is when you train a computer using a well la
 Day 3 (2/10/21): Tensors are mathematical objects that generalize scalars, vectors, and matrices to higher dimensions. For example, a tensor can be a single vector, a single matrix, a vector of vectors, or a matrix of matrices. The python code is quite different from my coding experience in Matlab. Tensor calculations do not provide a meaningful output unless prompted. Also, the large tensor containing the mathematical representation of the image was abbreviated with ellipses. 
 
 Day 4 (2/11/21): Here is the dataset that I found: https://www.kaggle.com/c/histopathologic-cancer-detection/overview/description . After doing some research, I found that cancer detection often uses 1-3 layered nueral networks. These layers could be used to calculate and categorize different charactaristics such as size, irregularities, and nuclear to cellular ratios. 
+
+Day 5(2/12/21): This is a notebook that I created which follows the sarcasm detection notebook from the curriculum: https://www.kaggle.com/blaynebanghart/day-5-sarcasm-detection/edit
