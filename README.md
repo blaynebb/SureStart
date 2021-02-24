@@ -18,3 +18,7 @@ Day 10(2/17/21): A fully connected nueral network has all neurons in each layer 
 Day 11(2/18/21): 
 
 Day 12(2/19/21):  
+
+Day 15(2/23/21): Facial image recognition code uploaded as a new project.
+
+Day 16(2/24/21): The rectified linear activation function has many advantages over other functions and is often used as a default. It has very simple computations, requiring only a max() function. It can also carry true zero values, which other functions cannot do exactly due to mathematical functions that are undefined at zero. Linear behaviror is also much easier to omptimize and eliminates vanishing graident problem. 
